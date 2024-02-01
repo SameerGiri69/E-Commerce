@@ -1,0 +1,37 @@
+﻿﻿@using Domain.Enum
+@using Application.ViewModels
+@model AddProductViewModel
+
+
+
+<<form method="post" asp-action="Create" enctype="multipart/form-data">
+
+    <div class="form-group">
+        <label asp-for="Name">Title</label>
+        <input asp-for="Name" class="form-control" placeholder="Enter Title">
+        <span asp-validation-for="Name" class="text-danger">   </span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Description">Description</label>
+        <input asp-for="Description" class="form-control" placeholder="Enter Description">
+        <span asp-validation-for="Description" class="text-danger">   </span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Price">Price</label>
+        <input asp-for="Price" class="form-control" placeholder="Enter Description">
+        <span asp-validation-for="Price" class="text-danger">   </span>
+    </div>
+    <div class="form-group">
+        <label asp-for="ProductCategory">ClubCategory</label>
+        <select asp-for="ProductCategory" asp-items="@Html.GetEnumSelectList<ProductCategory>()">
+            <option>--Select--</option>
+        </select>
+    </div>
+    <div class="form-group">
+        <label asp-for="ProductPhoto">Image</label>
+        <input asp-for="ProductPhoto" type="file" class="form-control" placeholder="Upload Image">
+        <span asp-validation-for="ProductPhoto" class="text-danger">   </span>
+    </div>
+    
+    <button type="submit" class="btn btn-primary">Submit</button>
+</form>

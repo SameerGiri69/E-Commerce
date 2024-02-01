@@ -1,0 +1,16 @@
+D:\All Projects\E-Commerce\E-Commerce\Application\bin\Debug\net8.0\Application.deps.json
+D:\All Projects\E-Commerce\E-Commerce\Application\bin\Debug\net8.0\Application.dll
+D:\All Projects\E-Commerce\E-Commerce\Application\bin\Debug\net8.0\Application.pdb
+D:\All Projects\E-Commerce\E-Commerce\Application\obj\Debug\net8.0\Application.csproj.AssemblyReference.cache
+D:\All Projects\E-Commerce\E-Commerce\Application\obj\Debug\net8.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\All Projects\E-Commerce\E-Commerce\Application\obj\Debug\net8.0\Application.AssemblyInfoInputs.cache
+D:\All Projects\E-Commerce\E-Commerce\Application\obj\Debug\net8.0\Application.AssemblyInfo.cs
+D:\All Projects\E-Commerce\E-Commerce\Application\obj\Debug\net8.0\Application.csproj.CoreCompileInputs.cache
+D:\All Projects\E-Commerce\E-Commerce\Application\obj\Debug\net8.0\Application.sourcelink.json
+D:\All Projects\E-Commerce\E-Commerce\Application\obj\Debug\net8.0\Application.dll
+D:\All Projects\E-Commerce\E-Commerce\Application\obj\Debug\net8.0\refint\Application.dll
+D:\All Projects\E-Commerce\E-Commerce\Application\obj\Debug\net8.0\Application.pdb
+D:\All Projects\E-Commerce\E-Commerce\Application\obj\Debug\net8.0\ref\Application.dll
+D:\All Projects\E-Commerce\E-Commerce\Application\bin\Debug\net8.0\Domain.dll
+D:\All Projects\E-Commerce\E-Commerce\Application\bin\Debug\net8.0\Domain.pdb
+D:\All Projects\E-Commerce\E-Commerce\Application\obj\Debug\net8.0\Application.csproj.CopyComplete
